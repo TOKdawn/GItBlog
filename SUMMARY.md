@@ -2,6 +2,6 @@
 
 * [who am I](README.md)
 
-## Group 1
+## 📜 假装文艺
 
-* [Page 3](group-1/page-3.md)
+* [乡村恐怖物语](jia-zhuang-wen-yi/xiang-cun-kong-bu-wu-yu.md)
